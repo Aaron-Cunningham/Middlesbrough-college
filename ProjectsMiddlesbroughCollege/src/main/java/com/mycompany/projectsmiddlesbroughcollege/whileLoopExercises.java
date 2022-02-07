@@ -1,13 +1,13 @@
 
-package com.mycompany.projectsmiddlesbroughcollege;
+package com.mycompany.projectsmiddlesbroughcollege;//package
 
 import java.util.Scanner;
 
-public class whileLoopExercises {
+public class whileLoopExercises {//class
 
     static Scanner sc = new Scanner(System.in);
 
-    public static void practiceOneA() {
+    public static void practiceOneA() {//Method
 
         int i = 1;
         System.out.println("Enter a number");
